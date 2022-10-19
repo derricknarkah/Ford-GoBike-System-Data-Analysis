@@ -7,6 +7,7 @@
 The Ford GoBike System Data is data collected on 183413 individual rides made in a bike-sharing program in the 
 San Francisco Bay Area covering the period of February 2019. The original data is not entirely clean and tidy. 
 Some datatypes were changed to more appropriate ones, null values were examined and deleted.
+https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
 
 ## Summary of Findings
 
